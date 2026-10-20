@@ -1,25 +1,47 @@
-# Python Projects Portfolio
 
-Data analysis projects built with Python (pandas, matplotlib, seaborn, scipy). Each project starts from a business question and ends with recommendations.
+# 🐍 Python Data Analytics Projects
+
+## 📌 Overview
+This repository showcases Python projects focused on data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization.
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+*List only the tools and libraries actually used in your projects.*
 
 ## 📂 Projects
 
-| # | Project | Business Question | Skills |
-|---|---|---|---|
-| 1 | [Olist E-commerce Analysis](./Project1_Olist_Ecommerce_Analysis) | What drives revenue, and do late deliveries hurt customer reviews? | Data cleaning, pandas merge, datetime, matplotlib, seaborn, Mann-Whitney test |
+### 1. Data Cleaning
+**Objective:** Prepare raw data for analysis by identifying missing values, duplicates, and inconsistent data.
 
-### Project 1 highlights
-- Cleaned and merged multiple tables covering about 100K orders
-- Found that late deliveries are only 6.8% of orders, but their average review is **2.27 vs 4.29** for on-time orders (p < 0.001)
-- Identified the states with the worst late-delivery rates (MA, CE, BA)
+### 2. Exploratory Data Analysis (EDA)
+**Objective:** Explore datasets to identify distributions, trends, relationships, and unusual observations.
 
-## 🛠️ Tools
-Python, pandas, NumPy, matplotlib, seaborn, scipy, Jupyter Notebook
+### 3. Statistical Analysis
+**Objective:** Apply appropriate statistical techniques to understand data and summarize findings.
 
-## 🔗 Other Portfolios
-- [SQL Projects](https://github.com/awan-mansuri/SQL-Projects)
-- [Excel Projects](https://github.com/awan-mansuri/Excel-Projects)
+### 4. Data Visualization
+**Objective:** Present analytical findings through clear and informative visualizations.
+
+*Update these project names and descriptions to match your actual notebooks and files.*
+
+## 💡 Skills Demonstrated
+- Data manipulation
+- Data quality checks
+- Exploratory data analysis
+- Statistical reasoning
+- Data visualization
+- Communicating findings
 
 ## 👤 Author
-**Awan Mansuri** | BSc Information Technology | Aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/awan-mansuri) | [GitHub](https://github.com/awan-mansuri)
+**Awan Mansuri**  
+MSc IT | Aspiring Data Analyst
+
+- GitHub: https://github.com/awan-mansuri
+- LinkedIn: https://www.linkedin.com/in/awan-mansuri
+
