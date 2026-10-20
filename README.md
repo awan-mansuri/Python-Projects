@@ -28,8 +28,6 @@ This repository showcases Python projects focused on data cleaning, exploratory 
 ### 4. Data Visualization
 **Objective:** Present analytical findings through clear and informative visualizations.
 
-*Update these project names and descriptions to match your actual notebooks and files.*
-
 ## 💡 Skills Demonstrated
 - Data manipulation
 - Data quality checks
